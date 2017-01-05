@@ -1,0 +1,10 @@
+Salwa
+Oudadsi
+salwaoudad@gmail.com
+Mende
+Géographique degré décimaux X: 44.51667 Y: 3.5
+DMS X: 44° 31' 0.01" Y: 3° 30' 0"
+UTM (en mètres) Zone 31T X: 539738 Y: 4929382
+Lambert 2 étendu (en mètres) X: 692560 Y: 1946873
+
+Salwa
