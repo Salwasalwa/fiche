@@ -16,3 +16,4 @@ bonjour hubgit
 jglkfgjklhmklghd
 salwa salwa
 practicar git
+practica en terminal
