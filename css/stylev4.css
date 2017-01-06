@@ -25,17 +25,13 @@ a {
     color: rgb(103, 101, 98);
 }
 
+a:hover {
+    color: rgb(235, 25, 170);
+}
+
 p.lin {
     padding-top: 5em;
     padding-left: 80%;
-}
-
-a:hover {
-    color: rgb(238, 197, 21);
-}
-
-a:visited {
-    color: rgb(161, 117, 148);
 }
 
 h3 {
@@ -53,7 +49,19 @@ li {
     color: rgb(219, 221, 231);
 }
 
-img {
-    width: 2em;
-    height: 2em;
+img.imglogo {
+    width: 3em;
+    height: 3em;
+}
+
+.mende {
+    text-align: justify;
+    color: rgb(33, 237, 145);
+    padding-left: 3em;
+    padding-right: 5em;
+}
+
+}
+table {
+
 }
