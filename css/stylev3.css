@@ -1,0 +1,40 @@
+body {
+    background-image: url("./image/629_14.jpg");
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: rgb(191, 195, 198)
+}
+
+label {
+    color: rgb(130, 123, 124);
+}
+
+label.address {
+    font-style: oblique;
+    font-size: 2em;
+}
+
+label.email {
+    font-style: italic;
+}
+
+a {
+    color: rgb(103, 101, 98);
+}
+
+a:hover {
+    color: rgb(238, 197, 21);
+}
+
+a:visited {
+    color: rgb(161, 117, 148);
+}
+
+p.txt {
+    font-size: 1em;
+    color: rgb(188, 199, 186);
+    text-align: center;
+}
