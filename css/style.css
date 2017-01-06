@@ -1,0 +1,39 @@
+h1 {
+    font-size: 2em;
+    border: 1px solid rgb(87, 47, 173);
+    margin: 1em;
+    text-align: center;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: rgb(238, 197, 21);
+}
+
+a:visited {
+    color: rgb(10, 15, 144);
+}
+
+p {
+    color: red;
+}
+
+body {
+    background: rgb(187, 16, 56);
+}
+
+label {
+    color: rgb(13, 79, 244);
+}
+
+label.address {
+    font-style: oblique;
+    font-size: 2em;
+}
+
+li.email {
+    color: rgb(140, 12, 35);
+}

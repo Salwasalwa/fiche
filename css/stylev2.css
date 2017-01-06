@@ -1,0 +1,25 @@
+body {
+    background-image: url("./image/lodcodi.png");
+
+}
+a {
+    color: rgba(99, 33, 129, 0.96);
+}
+
+a:hover {
+    color: rgb(31, 236, 200);
+}
+
+a:visited {
+    color: rgb(244, 16, 153);
+}
+label {
+    color: rgb(42, 237, 173)
+    width: 5em;
+    display: inline-block;
+    border: 1px solid rgb(80, 86, 89);
+}
+h1{
+    text-align: center;
+    color: rgb(65, 130, 198)
+}
