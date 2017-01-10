@@ -62,6 +62,7 @@ img.imglogo {
 }
 
 }
-table {
-
+.imagtab {
+    width: 5em;
+    height: 5em;
 }
