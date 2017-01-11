@@ -60,9 +60,9 @@ img.imglogo {
     padding-left: 3em;
     padding-right: 5em;
 }
-
-}
-.imagtab {
-    width: 5em;
-    height: 5em;
+img.imagtab {
+    width: 10em;
+    height: 9em;
+    float: right;
+    padding-right: 2em;
 }
