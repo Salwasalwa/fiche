@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Formulaire</title>
+        <link rel="stylesheet" href="formulaire.css">
+        <script src="./script.js"></script>
+    </head>
+
+    <body>
+        <form action="http://live.codincamp.fr/mail.php" method="post">
+            <!--method="get"-->
+            <fieldset>
+                <legend>Informations Personnelles</legend>
+                <label for="nom">Nom</label>
+                <input type="text" name="nom" id="nom"/>
+
+                <label for="prenom">Prenom</label>
+                <input type="text" name="prenom" id="prenom" />
+
+                <label for="datedenaissance">Date de naissance</label>
+                <input type="date" name="age" id="datedenaissance" />
+
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" />
+
+                <label for="ville">Ville</label>
+                <input type="text" name="ville" id="ville" />
+
+                <label for="telefon">Numéro de téléphone</label>
+                <input type="tel" name="telefon" id="telefon" />
+            </fieldset>
+
+            <fieldset>
+                <legend>Commentaire</legend>
+                <label for="subject">Subject</label>
+                <input type="text" name="nom" id="subject"/>
+                <textarea name="commentaires"></textarea>
+            </fieldset>
+
+            <input type="submit" name="envoyer" value="Envoyer" />
+            <input type="reset" name="envoyer" value="Réinitialise" />
+
+        </form>
+    </body>
+
+</html>
